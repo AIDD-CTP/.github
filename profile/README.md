@@ -1,4 +1,32 @@
 ## Hi there 👋
+More information [here](https://www.qmul.ac.uk/deri/ukri-aidd-doctoral-training-programme/).
+
+## AIDD CTP people
+* Cohort 1 (2022-2026): ... [TBU]
+* Cohort 2 (2023-2027): @martina-occhetta, @yuyuan871111, ... [TBU]
+* Cohort 3 (2024-2028): ... [TBU]
+
+## AIDD management team
+* Professor Conrad Bessant
+* Dr Mani Mudaliar
+* Professor Michael Barnes
+* Emma Grant
+
+## QMUL supervisors
+* Professor Conrad Bessant
+* Professor Michael Barnes
+* [TBU]
+
+## Insdutrial partners/Academic institutes
+* Recursion
+* Nxera
+* MSD
+* Evotec
+* Janssen Pharmaceutical
+* The Francis Crick Institute
+* Barts Cancer Institute, QMUL
+* Blizard Institute, QMUL
+* William Harvey Research Institute, QMUL
 
 <!--
 
